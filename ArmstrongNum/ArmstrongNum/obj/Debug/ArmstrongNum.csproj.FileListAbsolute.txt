@@ -1,0 +1,7 @@
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\bin\Debug\ArmstrongNum.exe.config
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\bin\Debug\ArmstrongNum.exe
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\bin\Debug\ArmstrongNum.pdb
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\obj\Debug\ArmstrongNum.csproj.AssemblyReference.cache
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\obj\Debug\ArmstrongNum.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\obj\Debug\ArmstrongNum.exe
+C:\Users\MOHAMMAD UMAR\source\repos\ArmstrongNum\ArmstrongNum\obj\Debug\ArmstrongNum.pdb

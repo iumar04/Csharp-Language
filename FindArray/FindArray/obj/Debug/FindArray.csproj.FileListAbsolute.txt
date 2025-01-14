@@ -1,0 +1,7 @@
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\bin\Debug\FindArray.exe.config
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\bin\Debug\FindArray.exe
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\bin\Debug\FindArray.pdb
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\obj\Debug\FindArray.csproj.AssemblyReference.cache
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\obj\Debug\FindArray.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\obj\Debug\FindArray.exe
+C:\Users\MOHAMMAD UMAR\source\repos\FindArray\FindArray\obj\Debug\FindArray.pdb
